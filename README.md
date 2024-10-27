@@ -80,8 +80,8 @@ I am a passionate web developer and problem-solver with a keen interest in **Ful
 
 ## 🏆 Certifications
 
-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kiranreddy4433E/portfolio/blob/main/Screenshot_2024-10-23-10-37-27-16_254de13a4bc8758c9908fff1f73e3725.jpg) **Front-End Web Developer** from **Acadomer**
-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kiranreddy4433E/portfolio/blob/main/internship_complition.pdf) **Website Design using JavaScript** from **Eisystems**
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kiranreddy4433E/portfolio/blob/main/Screenshot_2024-10-23-10-37-27-16_254de13a4bc8758c9908fff1f73e3725.jpg) **Website Design using JavaScript** from **Eisystems**
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kiranreddy4433E/portfolio/blob/main/internship_complition.pdf) **Front-End Web Developer** from **Acadomer**
 
 
 ---
