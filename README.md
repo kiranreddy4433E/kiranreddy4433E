@@ -80,8 +80,8 @@ I am a passionate web developer and problem-solver with a keen interest in **Ful
 
 ## 🏆 Certifications
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/chandra-kiran-reddy-reddycharla-a9a746230_proficient-in-html-css-and-javascript-activity-7193093367608582144--YCn?utm_source=share&utm_medium=member_desktop) **Front-End Web Developer** from **Acadomer**
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/chandra-kiran-reddy-reddycharla-a9a746230_internship-webdevelopment-javascript-activity-7222441272907640832-KM7y?utm_source=share&utm_medium=member_desktop) **Website Design using JavaScript** from **Eisystems**
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kiranreddy4433E/portfolio/blob/main/Screenshot_2024-10-23-10-37-27-16_254de13a4bc8758c9908fff1f73e3725.jpg) **Front-End Web Developer** from **Acadomer**
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kiranreddy4433E/portfolio/blob/main/internship_complition.pdf) **Website Design using JavaScript** from **Eisystems**
 
 
 ---
