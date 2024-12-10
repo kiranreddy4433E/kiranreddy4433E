@@ -43,7 +43,7 @@ I am a passionate web developer and problem-solver with a keen interest in **Ful
 - **Features:** 
   - Search weather by location or area name
   - Display 5-day weather forecasts
-- **Live Demo:** [Live URL](#link-to-demo)
+- **Live Demo:** [Live URL](https://kiranreddy4433e.github.io/major/)
 - **Repository:** [Weather Forecast Repo](https://github.com/kiranreddy4433E/major/blob/main/weather.html)
 
 ### [To-Do List](https://github.com/kiranreddy4433E/to-do-list)
